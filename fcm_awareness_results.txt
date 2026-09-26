@@ -1,0 +1,116 @@
+===========================================================================
+FCM SIMULATION REPORT (CAC FRAMEWORK)
+===========================================================================
+
+--- Scenario: Baseline ---
+Attack Surface Complexity                          | Final: 0.5000 | Diff: +0.0000
+Threat Exposure                                    | Final: 0.5000 | Diff: +0.0000
+Organizational Cyber Risk                          | Final: 0.5000 | Diff: +0.0000
+Governance Maturity                                | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Investment and Resource Allocation   | Final: 0.5000 | Diff: +0.0000
+Preventive Control Strength                        | Final: 0.5000 | Diff: +0.0000
+Monitoring and Detection Capability                | Final: 0.5000 | Diff: +0.0000
+Incident Response Readiness                        | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Awareness Capability                 | Final: 0.5000 | Diff: +0.0000
+Enacted Control Effectiveness                      | Final: 0.5000 | Diff: +0.0000
+Security Culture                                   | Final: 0.5000 | Diff: +0.0000
+Secure Compliance Behavior                         | Final: 0.5000 | Diff: +0.0000
+Workaround Tendency                                | Final: 0.5000 | Diff: +0.0000
+Automated Risk Modeling and Analytical Support     | Final: 0.5000 | Diff: +0.0000
+
+--- Scenario: Awareness Campaign ---
+Attack Surface Complexity                          | Final: 0.2500 | Diff: -0.2500
+Threat Exposure                                    | Final: 0.0978 | Diff: -0.4022
+Organizational Cyber Risk                          | Final: 0.0000 | Diff: -0.5000
+Governance Maturity                                | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Investment and Resource Allocation   | Final: 0.5000 | Diff: +0.0000
+Preventive Control Strength                        | Final: 0.5000 | Diff: +0.0000
+Monitoring and Detection Capability                | Final: 0.5000 | Diff: +0.0000
+Incident Response Readiness                        | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Awareness Capability                 | Final: 0.7071 | Diff: +0.2071
+Enacted Control Effectiveness                      | Final: 1.0000 | Diff: +0.5000
+Security Culture                                   | Final: 0.6609 | Diff: +0.1609
+Secure Compliance Behavior                         | Final: 0.7910 | Diff: +0.2910
+Workaround Tendency                                | Final: 0.2347 | Diff: -0.2653
+Automated Risk Modeling and Analytical Support     | Final: 0.5000 | Diff: +0.0000
+
+--- Scenario: Governance-Driven Awareness ---
+Attack Surface Complexity                          | Final: 0.2500 | Diff: -0.2500
+Threat Exposure                                    | Final: 0.1420 | Diff: -0.3580
+Organizational Cyber Risk                          | Final: 0.0000 | Diff: -0.5000
+Governance Maturity                                | Final: 0.6000 | Diff: +0.1000
+Cybersecurity Investment and Resource Allocation   | Final: 0.5777 | Diff: +0.0777
+Preventive Control Strength                        | Final: 0.6026 | Diff: +0.1026
+Monitoring and Detection Capability                | Final: 0.6085 | Diff: +0.1085
+Incident Response Readiness                        | Final: 0.6839 | Diff: +0.1839
+Cybersecurity Awareness Capability                 | Final: 0.9615 | Diff: +0.4615
+Enacted Control Effectiveness                      | Final: 1.0000 | Diff: +0.5000
+Security Culture                                   | Final: 0.9283 | Diff: +0.4283
+Secure Compliance Behavior                         | Final: 1.0000 | Diff: +0.5000
+Workaround Tendency                                | Final: 0.0000 | Diff: -0.5000
+Automated Risk Modeling and Analytical Support     | Final: 0.5694 | Diff: +0.0694
+
+--- Scenario: Awareness Through Investment ---
+Attack Surface Complexity                          | Final: 0.2500 | Diff: -0.2500
+Threat Exposure                                    | Final: 0.0977 | Diff: -0.4022
+Organizational Cyber Risk                          | Final: 0.0000 | Diff: -0.5000
+Governance Maturity                                | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Investment and Resource Allocation   | Final: 0.6000 | Diff: +0.1000
+Preventive Control Strength                        | Final: 0.5750 | Diff: +0.0750
+Monitoring and Detection Capability                | Final: 0.5777 | Diff: +0.0777
+Incident Response Readiness                        | Final: 0.6316 | Diff: +0.1316
+Cybersecurity Awareness Capability                 | Final: 0.7680 | Diff: +0.2680
+Enacted Control Effectiveness                      | Final: 1.0000 | Diff: +0.5000
+Security Culture                                   | Final: 0.7037 | Diff: +0.2037
+Secure Compliance Behavior                         | Final: 0.8719 | Diff: +0.3719
+Workaround Tendency                                | Final: 0.1609 | Diff: -0.3391
+Automated Risk Modeling and Analytical Support     | Final: 0.5000 | Diff: +0.0000
+
+--- Scenario: Threat-Triggered Awareness ---
+Attack Surface Complexity                          | Final: 0.4738 | Diff: -0.0262
+Threat Exposure                                    | Final: 0.5384 | Diff: +0.0384
+Organizational Cyber Risk                          | Final: 0.5034 | Diff: +0.0034
+Governance Maturity                                | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Investment and Resource Allocation   | Final: 0.5000 | Diff: +0.0000
+Preventive Control Strength                        | Final: 0.5000 | Diff: +0.0000
+Monitoring and Detection Capability                | Final: 0.5000 | Diff: +0.0000
+Incident Response Readiness                        | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Awareness Capability                 | Final: 0.5207 | Diff: +0.0207
+Enacted Control Effectiveness                      | Final: 0.5543 | Diff: +0.0543
+Security Culture                                   | Final: 0.5161 | Diff: +0.0161
+Secure Compliance Behavior                         | Final: 0.5291 | Diff: +0.0291
+Workaround Tendency                                | Final: 0.4735 | Diff: -0.0265
+Automated Risk Modeling and Analytical Support     | Final: 0.5000 | Diff: +0.0000
+
+--- Scenario: Awareness Fatigue ---
+Attack Surface Complexity                          | Final: 0.7500 | Diff: +0.2500
+Threat Exposure                                    | Final: 0.9023 | Diff: +0.4023
+Organizational Cyber Risk                          | Final: 1.0000 | Diff: +0.5000
+Governance Maturity                                | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Investment and Resource Allocation   | Final: 0.5000 | Diff: +0.0000
+Preventive Control Strength                        | Final: 0.5000 | Diff: +0.0000
+Monitoring and Detection Capability                | Final: 0.5000 | Diff: +0.0000
+Incident Response Readiness                        | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Awareness Capability                 | Final: 0.2929 | Diff: -0.2071
+Enacted Control Effectiveness                      | Final: 0.0000 | Diff: -0.5000
+Security Culture                                   | Final: 0.3391 | Diff: -0.1609
+Secure Compliance Behavior                         | Final: 0.2090 | Diff: -0.2910
+Workaround Tendency                                | Final: 0.8253 | Diff: +0.3253
+Automated Risk Modeling and Analytical Support     | Final: 0.5000 | Diff: +0.0000
+
+--- Scenario: Awareness & Culture Synergy ---
+Attack Surface Complexity                          | Final: 0.2500 | Diff: -0.2500
+Threat Exposure                                    | Final: 0.0977 | Diff: -0.4022
+Organizational Cyber Risk                          | Final: 0.0000 | Diff: -0.5000
+Governance Maturity                                | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Investment and Resource Allocation   | Final: 0.5000 | Diff: +0.0000
+Preventive Control Strength                        | Final: 0.5000 | Diff: +0.0000
+Monitoring and Detection Capability                | Final: 0.5000 | Diff: +0.0000
+Incident Response Readiness                        | Final: 0.5000 | Diff: +0.0000
+Cybersecurity Awareness Capability                 | Final: 0.8221 | Diff: +0.3221
+Enacted Control Effectiveness                      | Final: 1.0000 | Diff: +0.5000
+Security Culture                                   | Final: 0.8267 | Diff: +0.3267
+Secure Compliance Behavior                         | Final: 1.0000 | Diff: +0.5000
+Workaround Tendency                                | Final: 0.0307 | Diff: -0.4693
+Automated Risk Modeling and Analytical Support     | Final: 0.5000 | Diff: +0.0000
+
